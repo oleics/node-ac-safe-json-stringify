@@ -1,0 +1,8 @@
+{
+  "name": "ac-safe-json-stringify",
+  "description": "Circular-reference save JSON.stringify",
+  "version": "1.0.0",
+  "author": "Oliver Leics <oliver.leics@gmail.com>",
+  "license": "MIT",
+  "repository": "oleics/node-ac-safe-json-stringify"
+}
